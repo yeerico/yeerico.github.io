@@ -32,11 +32,11 @@ image:
 
 - 📷  I love photography .For me, photography is not only about recording moments, but also an art, an expression. Every time you press the shutter, you can record life's most precious moments and turn them into eternal memories. I am passionate about capturing the magnificent scenery of nature through different perspectives, such as drones
 
-- 🏖️  I always go to different countries in the worlds ,I love traveling🧭 ,during the trip, I can experience the culture of different regions🎃,and discover and document different beauty ,like🗽in the United States
+- 🏖️  I always go to different countries in the worlds ,I love traveling🧭 ,during the trip, I can experience the culture of different regions🎃,and discover and document different beauty ,like🗽in the United States🍙in Japan and so on.
 
-  🍙in Japan and so on.
+  ⬇️here are some photos of my trip，wish you have a good 
   
-  ⬇️here are some photos of my trip
+  ​      day
 
 ![image-20220327184021601](/assets/blog_res/2021-03-30-hello-world.assets/image-20220327184021601.png)
 
