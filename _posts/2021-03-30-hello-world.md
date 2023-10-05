@@ -28,13 +28,13 @@ image:
 
 - 🏫  I study in Shanghai Yangpu Bilingual School it is a big school ,the teachers and classmates are all very friendly. My best subject is English. 
 
-- 💻  I always use C / C++ / Java  / Python / Markdown to write a program,He made me feel accomplished🏆
+- 💻  I always use C / C++ / Java  / Python / Markdown to write a program,He made me feel accomplished
 
-- 📷  I love photography .For me, photography is not only about recording moments, but also an art, an expression. Every time you press the shutter, you can record life's most precious moments and turn them into eternal memories. I am passionate about capturing the magnificent scenery of nature through different perspectives, such as drones
+-   I love photography .For me, photography is not only about recording moments, but also an art, an expression. Every time you press the shutter, you can record life's most precious moments and turn them into eternal memories. I am passionate about capturing the magnificent scenery of nature through different perspectives, such as drones
 
-- 🏖️  I always go to different countries in the worlds ,I love traveling🧭 ,during the trip, I can experience the culture of different regions🎃,and discover and document different beauty ,like🗽in the United States🍙in Japan and so on.
+- 🏖️  I always go to different countries in the worlds ,I love traveling ,during the trip, I can experience the culture of different regions,and discover and document different beauty ,like the buildings in the United States，sushi in Japan and so on.
 
-  ⬇️here are some photos of my trip，wish you have a good 
+  here are some photos of my trip，wish you have a good 
   
   ​      day
 
